@@ -9,7 +9,8 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
-By MC: 
+By MC this will add the pipeline status right in the Readme file:
+
 [![Build Status](https://dev.azure.com/Training-HBOLA/Calculator_MC/_apis/build/status/mcodecido.calculator?branchName=master)](https://dev.azure.com/Training-HBOLA/Calculator_MC/_build/latest?definitionId=2&branchName=master)
 
 To build, simply:
