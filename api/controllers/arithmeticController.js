@@ -11,6 +11,8 @@ exports.calculate = function(req, res) {
   });
 
   var operations = {
+    //Comment used to practice pipeline modifications
+    //change 04212020-1
     'add':      function(a,b) { return +a + +b },
     'subtract': function(a,b) { return a - b },
     'multiply': function(a,b) { return a * b },
